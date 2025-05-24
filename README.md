@@ -56,13 +56,13 @@ Hi! I am a programmer based in SoCal. Interested in Machine Learning/Artificial 
   </table>
 </div>
 
-## 📁 Featured Projects
+## 📁 Featured Projects + Upcoming
 
 | Project | Description |
 |--------|-------------|
 | [📊 Birthday Logg](https://github.com/swan-e/Birthday-Logg) | A database app that stores birthday dates with PostgreSQL and sends out reminders. |
-| [📬 Gmail Spam Detection Bot](placeholder) | A machine learning-based spam filter using Python and scikit-learn. Automatically classifies and deletes spam from Gmail via a custom UI. |
-| [🌐 Portfolio Website](placeholder) | A personal website built with Next.js and Tailwind CSS to showcase my work, resume, and contact info. Deployed using GitHub Pages. |
+| [📬 Gmail Spam Detection Bot](upcoming) | A machine learning-based spam filter using Python and scikit-learn. Automatically classifies and deletes spam from Gmail via a custom UI. |
+| [🌐 Portfolio Website](upcoming) | A personal website built with Next.js and Tailwind CSS to showcase my work, resume, and contact info. Deployed using GitHub Pages. |
 
 
 
