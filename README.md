@@ -61,9 +61,9 @@ Hi! I am a programmer based in SoCal. Interested in Machine Learning/Artificial 
 
 | Project | Description |
 |--------|-------------|
-| [📊 Birthday Logg](https://github.com/swan-e/Birthday-Logg) | A database app that stores birthday dates with PostgreSQL and sends out reminders. |
+| [📊 Baskitt](https://baskitt.netlify.app/) | A recipe cookbook app that stores recipes via PostgreSQL. Current implementations includes RandomForest classifier model trained on instructions/step data to auto scrape recipe websites. |
 | [📬 WebDev Portfolio Template](https://github.com/swan-e/webdev-workshop) | A react based template that allows for non-programming users to easily create their own personalized portfolio websites. |
-| [🌐 Portfolio Website](upcoming) | (UPCOMING) A personal website built with Next.js and Tailwind CSS to showcase my work, resume, and contact info. Deployed using GitHub Pages. |
+| [🌐 Portfolio Website]([upcoming](https://swan-e.github.io/portfolio/)) | (UPCOMING) A personal website built with Next.js and Tailwind CSS to showcase my work, resume, and contact info. Deployed using GitHub Pages. |
 
 
 
